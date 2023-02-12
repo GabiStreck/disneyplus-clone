@@ -14,6 +14,7 @@ Created clone of Disney Plus with Svelte, SvelteKit, Hygraph GraphQL and Vitest 
 <!-- Screenshots -->
 <div>
 
+https://user-images.githubusercontent.com/39699923/218335893-f70c5e6a-26b1-427f-b765-d2500de61c76.mp4
 
 </div>
 
